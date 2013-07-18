@@ -1,0 +1,13 @@
+{
+  "name": "twitter-rss",
+  "version": "0.0.1",
+  "description": "Twitter Favorites to RSS feed",
+  "main": "server.js",
+  "author": "sergey.homyuk",
+  "private": true,
+  "dependencies": {
+      "twit": "",
+      "feed": "",
+      "express": ""
+  }  
+}
